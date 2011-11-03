@@ -15,6 +15,9 @@ doc
 .bundle
 Gemfile.lock
 
+# rvm
+.rvmrc
+
 # jeweler generated
 pkg
 *.gem
